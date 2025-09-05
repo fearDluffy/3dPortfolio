@@ -2,7 +2,7 @@
 
 Welcome to my 3D Portfolio! This is an immersive, interactive, and fully responsive portfolio website showcasing my projects, skills, and creativity in a visually stunning way.
 
-🔗 Live : https://3d-portfolio-liard-alpha.vercel.app/
+🔗 Live Demo: https://3d-portfolio-liard-alpha.vercel.app/
 
 💡 About
 
@@ -19,7 +19,7 @@ This portfolio is designed to wow your eyes while presenting my work:
 This portfolio represents my creativity, technical skills, and passion for modern frontend development.
 
 🛠️ Tech Stack & Tools
-<p> <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" alt="Vite" height="40"/></a> <a href="https://reactjs.org/"><img src="https://reactjs.org/logo-og.png" alt="React" height="40"/></a> <a href="https://tailwindcss.com/"><img src="https://tailwindcss.com/_next/static/media/tailwind-logo.3b7c8d0c.svg" alt="Tailwind CSS" height="40"/></a> <a href="https://greensock.com/gsap/"><img src="https://greensock.com/wp-content/uploads/2020/04/gsap-logo.svg" alt="GSAP" height="40"/></a> <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="40"/></a> <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40"/></a> <a href="https://vercel.com/"><img src="https://vercel.com/favicon.ico" alt="Vercel" height="40"/></a> </p>
+<p> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a> <a href="https://greensock.com/gsap/"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a> <a href="https://github.com/feardluffy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a> </p>
 
 Vite – Lightning-fast frontend build tool.
 
@@ -51,7 +51,7 @@ Vercel – Hosting platform for live deployment.
 
 📥 How to Clone & Run Locally
 # Clone the repo
-git clone https://github.com/yourusername/3d-portfolio.git
+git clone https://github.com/feardluffy/3d-portfolio.git
 
 # Enter the project directory
 cd 3d-portfolio
